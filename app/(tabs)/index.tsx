@@ -1,5 +1,4 @@
-import { Button } from 'react-native';
-import { View } from 'react-native-reanimated/lib/typescript/Animated';
+import { Button, View } from 'react-native';
 import { downloadPdfOnly, openPdf } from '@/utils/helpers';
 
 export default function HomeScreen() {
